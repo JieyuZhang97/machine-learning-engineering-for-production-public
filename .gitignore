@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 
+.DS_Store
+
+# course1
+course1/week1-ungraded-lab/image*
+
